@@ -1,0 +1,10 @@
+displayName: Header Dump
+type: middleware
+iconPath: .assets/icon.png
+
+import: github.com/jaybubs/headerdump
+
+summary: "Will intercept, and write all headers neatly into log with a prefix for easy grepping"
+
+testData:
+  Prefix: HDlog
