@@ -1,6 +1,6 @@
 # Header Dump
 
-![Yea it's a stock photo...](/assets/icon.png)
+![Yea it's a stock photo...](/.assets/icon.png)
 
 Does what it says on the tin. Developped as a debugging tool, this traefik middleware sits in the middle of your route and mercilessly dumps all request headers into traefik logs in a date-time-log format. The `Prefix` serves as an attribute for easy grepping; if not provided it defaults to `HDlog`.
 
