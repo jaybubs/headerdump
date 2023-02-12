@@ -15,7 +15,7 @@ Does what it says on the tin. Developped as a debugging tool, this traefik middl
 ```bash
 # static config via CLI argument
 --experimental.plugins.headerdump.modulename=github.com/jaybubs/headerdump
---experimental.plugins.headerdump.version=v0.1.0
+--experimental.plugins.headerdump.version=v0.2.0
 ```
 
 ```yaml
