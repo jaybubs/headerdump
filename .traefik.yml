@@ -8,3 +8,4 @@ summary: "Will intercept, and write all headers neatly into log with a prefix fo
 
 testData:
   Prefix: HDlog
+  TLS: true
